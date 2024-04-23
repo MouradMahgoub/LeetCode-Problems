@@ -9,27 +9,30 @@ public:
         return graph;
     }
     vector<int> findMinHeightTrees(int n, vector<vector<int>>& edges) {
+        if(n == 1) return {0};
         vector<vector<int>> adj = formGraph(n, edges);
         vector<int> nodesDegree(n, 0);
-        unordered_set<int> nodes;
         queue<int> leaves;
         for(int i=0; i<n; i++){
-            nodes.insert(i);
             nodesDegree[i] = adj[i].size();
             if(nodesDegree[i] == 1) leaves.push(i);
         }
-        while(nodes.size() > 2){
+        while(n > 2){
             int s = leaves.size();
             for(int i=0; i<s; i++){
                 int currLeave = leaves.front();
-                nodes.erase(currLeave);
+                n--;
                 leaves.pop();
                 for(auto neighbour : adj[currLeave]){
                     if(--nodesDegree[neighbour] == 1) leaves.push(neighbour);
                 }
             }
         }
-        vector<int> ans(nodes.begin(), nodes.end());
+        vector<int> ans;
+        while(!leaves.empty()){
+            ans.push_back(leaves.front());
+            leaves.pop();
+        }
         return ans;
     }
 };
