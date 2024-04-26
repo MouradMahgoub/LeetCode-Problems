@@ -16,15 +16,6 @@ public:
         int ans=0;
         for(int i=0; i<nums.size(); i++)
             if(dp1[i] == mx) ans += dp2[i];
-        for(int i : nums)
-            cout << i << " ";
-        cout << "\n";
-        for(int i : dp1)
-            cout << i << " ";
-        cout << "\n";
-        for(int i : dp2)
-            cout << i << " ";
-        cout << "\n";
         return ans;
     }
 };
