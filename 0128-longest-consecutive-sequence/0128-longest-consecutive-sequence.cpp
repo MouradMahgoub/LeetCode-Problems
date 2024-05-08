@@ -5,9 +5,9 @@ public:
         int ans=0;
         for(int i : nums) st.insert(i);
         for(int i : nums){
-            if(!st.count(i-1)){
-                int temp = 0;
-                while(st.count(i)){
+            if(st.find(i-1) == st.end()){
+                int temp = 1;
+                while(st.find(i+1) != st.end()){
                     i++;
                     temp++;
                 }
