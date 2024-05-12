@@ -1,30 +1,29 @@
 class Solution {
 public:
-    string s;
-    vector<string> wordDict;
-    vector<int> memo;
-    bool dp(int i) {
-        if(i < 0) return true;
-        if(memo[i] != -1) return memo[i];
-        for(string word : wordDict){
-            int n = word.size();
-            if(i-n+1 < 0) continue;
-            if(s.substr(i-n+1, n) == word && dp(i - n))
-                return memo[i] = 1;
-        }
-        return memo[i] = 0;   
-    } 
     bool wordBreak(string s, vector<string>& wordDict) {
-        this->s = s; this->wordDict = wordDict;
-        this->memo = vector<int>(s.size(), -1);
-        return dp(s.size()-1);
+        vector<bool> dp(s.size()+1, false);
+        dp[s.size()] = true;
+        for(int i=s.size()-1; ~i; i--)
+            for(string word : wordDict)
+                if(i+word.size()-1 < s.size() && s.substr(i, word.size()) == word && dp[i+word.size()])
+                    dp[i] = true;
+        return dp[0];
     }
 };
-        // if(curr == s) return true;
-        // if(curr.size() > s.size() || curr != s.substr(0, curr.size())) return false;
-        // bool f = false;
-        // for(string val : wordDict){
-        //         f |= foo(curr+val);
-        //         if(f) return true;
-        // }
-        // return f;
+        // this->s = s; this->wordDict = wordDict;
+        // this->memo = vector<int>(s.size(), -1);
+        // return dp(s.size()-1);
+    // string s;
+    // vector<string> wordDict;
+    // vector<int> memo;
+    // bool dp(int i) {
+    //     if(i < 0) return true;
+    //     if(memo[i] != -1) return memo[i];
+    //     for(string word : wordDict){
+    //         int n = word.size();
+    //         if(i-n+1 < 0) continue;
+    //         if(s.substr(i-n+1, n) == word && dp(i - n))
+    //             return memo[i] = 1;
+    //     }
+    //     return memo[i] = 0;   
+    // } 
