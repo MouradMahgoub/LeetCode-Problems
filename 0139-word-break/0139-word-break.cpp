@@ -5,8 +5,9 @@ public:
         dp[s.size()] = true;
         for(int i=s.size()-1; ~i; i--)
             for(string word : wordDict)
-                if(i+word.size()-1 < s.size() && s.substr(i, word.size()) == word && dp[i+word.size()])
-                    dp[i] = true;
+                if(i+word.size()-1 < s.size() && s.substr(i, word.size()) == word && dp[i+word.size()]){
+                    dp[i] = true; break;
+                }
         return dp[0];
     }
 };
