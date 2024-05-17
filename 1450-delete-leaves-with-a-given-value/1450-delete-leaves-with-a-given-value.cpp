@@ -12,9 +12,10 @@
 class Solution {
 public:
     TreeNode* removeLeafNodes(TreeNode* root, int target) {
-        if(root->left) root->left = removeLeafNodes(root->left, target);
-        if(root->right) root->right = removeLeafNodes(root->right, target);
-        if(!root->left && !root->right) return root->val == target ? NULL : root;
+        if(!root) return NULL;
+        root->left = removeLeafNodes(root->left, target);
+        root->right = removeLeafNodes(root->right, target);
+        if(!root->left && !root->right && root->val == target) return NULL;
         return root;
     }
 };
