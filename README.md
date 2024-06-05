@@ -28,3 +28,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1044-find-common-characters) |
+# Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0577-employee-bonus) |
