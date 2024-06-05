@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<string> commonChars(vector<string>& words) {
-        vector<map<char, int>> v(words.size());
+        vector<unordered_map<char, int>> v(words.size());
         for(int i=0; i<words.size(); i++)
             for(char c : words[i]) v[i][c]++;
         vector<string> ans;
