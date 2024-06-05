@@ -33,6 +33,7 @@ Collection of LeetCode questions
 | ------- |
 | [0577-employee-bonus](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0620-not-boring-movies) |
+| [1161-project-employees-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1161-project-employees-i) |
 | [1415-students-and-examinations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1415-students-and-examinations) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
