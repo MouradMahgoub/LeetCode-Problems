@@ -34,3 +34,4 @@ Collection of LeetCode questions
 | [0577-employee-bonus](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0620-not-boring-movies) |
 | [1415-students-and-examinations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1415-students-and-examinations) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
