@@ -18,16 +18,19 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1044-find-common-characters) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Array
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1044-find-common-characters) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Database
 |  |
 | ------- |
@@ -37,3 +40,7 @@ Collection of LeetCode questions
 | [1415-students-and-examinations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1415-students-and-examinations) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+# Sorting
+|  |
+| ------- |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
