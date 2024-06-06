@@ -18,17 +18,20 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Array
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Database
@@ -43,4 +46,5 @@ Collection of LeetCode questions
 # Sorting
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
