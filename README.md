@@ -44,6 +44,7 @@ Collection of LeetCode questions
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1415-students-and-examinations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1415-students-and-examinations) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1877-find-followers-count](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 # Sorting
