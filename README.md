@@ -40,6 +40,7 @@ Collection of LeetCode questions
 | [0577-employee-bonus](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1161-project-employees-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1415-students-and-examinations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1415-students-and-examinations) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
