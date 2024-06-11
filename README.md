@@ -42,6 +42,7 @@ Collection of LeetCode questions
 | [1044-find-common-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 # Database
 |  |
 | ------- |
@@ -79,3 +80,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1137-height-checker) |
+# Matrix
+|  |
+| ------- |
+| [2454-largest-local-values-in-a-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
