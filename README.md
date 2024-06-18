@@ -7,6 +7,7 @@ Collection of LeetCode questions
 | ------- |
 | [0075-sort-colors](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -20,6 +21,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -42,6 +44,7 @@ Collection of LeetCode questions
 | [0075-sort-colors](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0648-replace-words) |
+| [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -69,6 +72,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1137-height-checker) |
@@ -98,3 +102,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
+# Binary Search
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
