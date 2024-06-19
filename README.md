@@ -9,6 +9,7 @@ Collection of LeetCode questions
 | [0344-reverse-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 # String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 # Database
 |  |
 | ------- |
