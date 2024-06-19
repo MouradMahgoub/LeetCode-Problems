@@ -17,6 +17,7 @@ Collection of LeetCode questions
 | [0648-replace-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
