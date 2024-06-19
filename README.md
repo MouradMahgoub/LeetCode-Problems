@@ -16,6 +16,7 @@ Collection of LeetCode questions
 | [0409-longest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1044-find-common-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
@@ -114,3 +115,4 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
