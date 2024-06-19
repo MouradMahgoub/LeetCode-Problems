@@ -42,6 +42,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0485-max-consecutive-ones](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
