@@ -15,6 +15,7 @@ Collection of LeetCode questions
 | ------- |
 | [0344-reverse-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0648-replace-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0876-hand-of-straights) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions
 # Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
