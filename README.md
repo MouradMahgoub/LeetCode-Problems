@@ -62,6 +62,7 @@ Collection of LeetCode questions
 | [1217-relative-sort-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1675-magnetic-force-between-two-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions
 | [1137-height-checker](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1675-magnetic-force-between-two-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
@@ -121,6 +123,7 @@ Collection of LeetCode questions
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [1046-max-consecutive-ones-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1675-magnetic-force-between-two-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 # Sliding Window
 |  |
 | ------- |
