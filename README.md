@@ -50,6 +50,7 @@ Collection of LeetCode questions
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0648-replace-words) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
