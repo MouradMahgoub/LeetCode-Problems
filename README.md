@@ -52,6 +52,7 @@ Collection of LeetCode questions
 | [0485-max-consecutive-ones](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0648-replace-words) |
+| [0792-binary-search](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions
 # Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [1046-max-consecutive-ones-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
