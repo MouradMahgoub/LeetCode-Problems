@@ -48,6 +48,7 @@ Collection of LeetCode questions
 # Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -118,10 +119,12 @@ Collection of LeetCode questions
 # Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 # Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [1046-max-consecutive-ones-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
