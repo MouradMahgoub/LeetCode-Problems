@@ -63,6 +63,7 @@ Collection of LeetCode questions
 | [1044-find-common-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1138-grumpy-bookstore-owner](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
