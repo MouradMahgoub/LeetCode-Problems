@@ -66,6 +66,7 @@ Collection of LeetCode questions
 | [1137-height-checker](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1217-relative-sort-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions
 | [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 # Sliding Window
