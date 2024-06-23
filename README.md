@@ -69,6 +69,7 @@ Collection of LeetCode questions
 | [1370-count-number-of-nice-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions
 | [0853-most-profit-assigning-work](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 # Sliding Window
 |  |
