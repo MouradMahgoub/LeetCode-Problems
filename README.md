@@ -19,6 +19,7 @@ Collection of LeetCode questions
 | [0648-replace-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions
 | [1016-subarray-sums-divisible-by-k](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 # Counting Sort
 |  |
 | ------- |
@@ -144,6 +146,7 @@ Collection of LeetCode questions
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 # Sliding Window
 |  |
 | ------- |
@@ -154,6 +157,7 @@ Collection of LeetCode questions
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 # Queue
