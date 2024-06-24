@@ -77,6 +77,7 @@ Collection of LeetCode questions
 | [1675-magnetic-force-between-two-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2478-longest-nice-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 # Database
@@ -159,6 +160,7 @@ Collection of LeetCode questions
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 # Queue
 |  |
@@ -176,3 +178,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Bit Manipulation
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
