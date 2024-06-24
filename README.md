@@ -62,6 +62,7 @@ Collection of LeetCode questions
 | [0907-koko-eating-bananas](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -167,6 +170,7 @@ Collection of LeetCode questions
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Heap (Priority Queue)
 |  |
@@ -183,4 +187,5 @@ Collection of LeetCode questions
 # Bit Manipulation
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2478-longest-nice-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
