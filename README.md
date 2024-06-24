@@ -80,6 +80,7 @@ Collection of LeetCode questions
 | [2478-longest-nice-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2665-minimum-time-to-repair-cars](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 # Database
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Collection of LeetCode questions
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2665-minimum-time-to-repair-cars](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 # Sliding Window
 |  |
 | ------- |
