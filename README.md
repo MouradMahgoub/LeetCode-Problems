@@ -77,6 +77,7 @@ Collection of LeetCode questions
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2478-longest-nice-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 # Sliding Window
 |  |
