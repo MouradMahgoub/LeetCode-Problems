@@ -20,12 +20,8 @@ public:
     }
     TreeNode* foo (int l, int r) {
         if(l > r) return NULL;
-        if(l == r) return new TreeNode(v[l]);
         int mid = l + (r-l)/2;
-        TreeNode* root = new TreeNode(v[mid]);
-        root->left = foo(l, mid-1);
-        root->right = foo(mid+1, r);
-        return root;
+        return new TreeNode(v[mid], foo(l, mid-1), foo(mid+1, r));
 
     }
     TreeNode* balanceBST(TreeNode* root) {
