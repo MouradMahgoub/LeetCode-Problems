@@ -220,3 +220,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1916-find-center-of-star-graph) |
