@@ -267,6 +267,7 @@ Collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [2727-number-of-senior-citizens](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 ## Sliding Window
 |  |
@@ -276,4 +277,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
