@@ -286,6 +286,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0155-min-stack) |
 ## Two Pointers
 |  |
 | ------- |
@@ -303,4 +304,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [2402-maximum-xor-after-operations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2402-maximum-xor-after-operations) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
