@@ -6,11 +6,11 @@ public:
         int maxl=v[0], maxr=v[n-1];
         while(l < r){
             if(maxl < maxr){
-                ans += max(0, min(maxl, maxr)-v[l]);                
                 maxl = max(maxl, v[++l]);
+                ans += max(0, min(maxl, maxr)-v[l]);                
             }else{
-                ans += max(0, min(maxl, maxr)-v[r]);                
                 maxr = max(maxr, v[--r]);
+                ans += max(0, min(maxl, maxr)-v[r]);                
             }
         }
         return ans;
