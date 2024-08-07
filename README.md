@@ -256,6 +256,7 @@ Collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
