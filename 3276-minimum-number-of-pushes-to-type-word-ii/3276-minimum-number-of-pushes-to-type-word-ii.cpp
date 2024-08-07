@@ -1,19 +1,12 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        vector<int> letterFreq(26, 0);
-        for (char c : word) {
-            letterFreq[c - 'a']++;
-        }
-        
-        sort(letterFreq.rbegin(), letterFreq.rend());
-        
-        int totalPresses = 0;
-        for (int i = 0; i < 26; i++) {
-            if (letterFreq[i] == 0) break;
-            totalPresses += (i / 8 + 1) * letterFreq[i];
-        }
-        
-        return totalPresses;
+        vector<int> mp(30, 0);
+        for(char c : word) mp[c - 'a']++;
+        sort(mp.rbegin(), mp.rend());
+        for(int i : mp) cout << i << " ";
+        int ans=0;
+        for(int i=0; i<30; i++) ans += mp[i]*((i+8)/8);
+        return ans;
     }
 };
