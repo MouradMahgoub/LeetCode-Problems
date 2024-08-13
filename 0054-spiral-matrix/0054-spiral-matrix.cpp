@@ -1,27 +1,30 @@
 class Solution {
 public:
-    vector<int> spiralOrder(vector<vector<int>>& matrix) {
+    bool valid(int l, int r, int t, int d){
+        return l <= r && t <= d;        
+    }
+    vector<int> spiralOrder(vector<vector<int>>& arr) {
+        int n=arr.size(), m=arr[0].size();
+        int l=0, r=m-1;
+        int t=0, d=n-1;
         vector<int> ans;
-        int l=0, r=matrix[0].size();
-        int t=0, b=matrix.size();
-        while(l <= r && t <= b){
+        while(valid(l, r, t, d)){
             //top row
-            for(int i=l; i<r; i++) ans.push_back(matrix[t][i]);
+            for(int i=l; i<=r; i++) ans.push_back(arr[t][i]);
             t++;
-            if(t >= b) break;
+            if(!valid(l, r, t ,d)) break;
             //right col
-            for(int i=t; i<b; i++) ans.push_back(matrix[i][r-1]);
+            for(int i=t; i<=d; i++) ans.push_back(arr[i][r]);
             r--;
-            if(r <= l) break;
-            //bottom row
-            for(int i=r-1; i>=l; i--) ans.push_back(matrix[b-1][i]);
-            b--;
-            if(b <= t) break;
+            if(!valid(l, r, t ,d)) break;
+            //down row
+            for(int i=r; i>=l;i--) ans.push_back(arr[d][i]);
+            d--;
+            if(!valid(l, r, t ,d)) break;
             //left col
-            for(int i=b-1; i>=t; i--) ans.push_back(matrix[i][l]);
+            for(int i=d; i>=t; i--) ans.push_back(arr[i][l]);
             l++;
-            if(l >= r) break;
         }
-        return ans;   
+        return ans;
     }
 };
