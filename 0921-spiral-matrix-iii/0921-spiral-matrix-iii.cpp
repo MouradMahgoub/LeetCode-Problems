@@ -1,31 +1,27 @@
 class Solution {
 public:
-    vector<vector<int>> spiralMatrixIII(int rows, int cols, int rStart,
-                                        int cStart) {
-        // Store all possible directions in an array.
-        vector<vector<int>> dir{{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
-        vector<vector<int>> traversed;
 
-        // Initial step size is 1, value of d represents the current direction.
-        for (int step = 1, direction = 0; traversed.size() < rows * cols;) {
-            // direction = 0 -> East, direction = 1 -> South
-            // direction = 2 -> West, direction = 3 -> North
-            for (int i = 0; i < 2; ++i) {
-                for (int j = 0; j < step; ++j) {
-                    // Validate the current position
-                    if (rStart >= 0 && rStart < rows && cStart >= 0 &&
-                        cStart < cols) {
-                        traversed.push_back({rStart, cStart});
-                    }
-                    // Make changes to the current position.
-                    rStart += dir[direction][0];
-                    cStart += dir[direction][1];
+    bool valid (int x, int y, int rows, int cols) {
+        return x >= 0 && x < rows && y >= 0 && y < cols;
+    }
+
+    vector<vector<int>> spiralMatrixIII(int rows, int cols, int rStart, int cStart) {
+        int indx = 0;
+        int dirX[] = {0, 1, 0, -1};
+        int dirY[] = {1, 0, -1, 0};
+        vector<vector<int>> ans;
+        int currX = rStart, currY = cStart;
+        ans.push_back({currX, currY});
+        for(int k=1; k<= rows*cols*4; k++){
+            for(int i=0; i<2; i++){
+                for(int i=0; i<k; i++){
+                    currX += dirX[indx%4];
+                    currY += dirY[indx%4];
+                    if(valid(currX, currY, rows, cols)) ans.push_back({currX, currY});
                 }
-
-                direction = (direction + 1) % 4;
+                indx++;
             }
-            ++step;
         }
-        return traversed;
+        return ans;
     }
 };
