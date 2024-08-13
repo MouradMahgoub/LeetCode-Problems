@@ -262,6 +262,7 @@ Collection of LeetCode questions
 | [0001-two-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0057-insert-interval) |
@@ -412,4 +413,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
