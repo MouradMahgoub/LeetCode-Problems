@@ -1,108 +1,42 @@
 class Solution {
 public:
-    string one(int num) {
-    switch(num) {
-      case 1: return "One";
-      case 2: return "Two";
-      case 3: return "Three";
-      case 4: return "Four";
-      case 5: return "Five";
-      case 6: return "Six";
-      case 7: return "Seven";
-      case 8: return "Eight";
-      case 9: return "Nine";
-    }
-    return "";
-  }
+    vector<string> v1 = {"", "Thousand", "Million", "Billion"};
+    vector<string> v2 = {"", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"};
+    vector<string> v3 = {"", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
+    vector<string> v4 = {"Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
 
-  string twoLessThan20(int num) {
-    switch(num) {
-      case 10: return "Ten";
-      case 11: return "Eleven";
-      case 12: return "Twelve";
-      case 13: return "Thirteen";
-      case 14: return "Fourteen";
-      case 15: return "Fifteen";
-      case 16: return "Sixteen";
-      case 17: return "Seventeen";
-      case 18: return "Eighteen";
-      case 19: return "Nineteen";
+    string foo(int num) {
+        string ans = "";
+        if(num >= 100){
+            ans += " " + v2[num/100] + " Hundred"; 
+        }
+        num %= 100;
+        if(num/10 == 1){
+            ans += " " + v4[num%10];
+            return ans;
+        }
+        if(num >= 20){
+            ans += " " + v3[num/10]; 
+        }
+        num %= 10;
+        if(num >= 1){
+            ans += " " + v2[num]; 
+        }
+        return ans;
     }
-    return "";
-  }
-
-  string ten(int num) {
-    switch(num) {
-      case 2: return "Twenty";
-      case 3: return "Thirty";
-      case 4: return "Forty";
-      case 5: return "Fifty";
-      case 6: return "Sixty";
-      case 7: return "Seventy";
-      case 8: return "Eighty";
-      case 9: return "Ninety";
-    }
-    return "";
-  }
-
-  string two(int num) {
-    if (num == 0)
-      return "";
-    else if (num < 10)
-      return one(num);
-    else if (num < 20)
-      return twoLessThan20(num);
-    else {
-      int tenner = num / 10;
-      int rest = num - tenner * 10;
-      if (rest != 0)
-        return ten(tenner) + " " + one(rest);
-      else
-        return ten(tenner);
-    }
-  }
-
-  string three(int num) {
-    int hundred = num / 100;
-    int rest = num - hundred * 100;
-    string res = "";
-    if (hundred*rest != 0)
-      res = one(hundred) + " Hundred " + two(rest);
-    else if ((hundred == 0) && (rest != 0))
-      res = two(rest);
-    else if ((hundred != 0) && (rest == 0))
-      res = one(hundred) + " Hundred";
-    return res;
-  }
 
     string numberToWords(int num) {
-        if (num == 0)
-      return "Zero";
-
-    int billion = num / 1000000000;
-    int million = (num - billion * 1000000000) / 1000000;
-    int thousand = (num - billion * 1000000000 - million * 1000000) / 1000;
-    int rest = num - billion * 1000000000 - million * 1000000 - thousand * 1000;
-
-    string result = "";
-    if (billion != 0)
-      result = three(billion) + " Billion";
-    if (million != 0) {
-      if (result.size()!=0)
-        result += " ";
-      result += three(million) + " Million";
+        if(num == 0) return "Zero";
+        string ans = "";
+        int i=0;
+        while(num){
+            if(num%1000)
+                ans = foo(num%1000) + " " + v1[i]  +  ans;
+            num /= 1000;
+            i++;
+        }
+        while(ans[0] == ' ') ans.erase(ans.begin());
+        while(ans[ans.size()-1] == ' ') ans.pop_back();
+        return ans;
     }
-    if (thousand != 0) {
-      if (result.size()!=0)
-        result += " ";
-      result += three(thousand) + " Thousand";
-    }
-    if (rest != 0) {
-      if (result.size()!=0)
-        result += " ";
-      result += three(rest);
-    }
-    return result;
-    }
-
 };
