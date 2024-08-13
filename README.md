@@ -284,6 +284,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -294,12 +295,14 @@ Collection of LeetCode questions
 | ------- |
 | [0071-simplify-path](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0273-integer-to-english-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
+| [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sorting
 |  |
@@ -322,6 +325,7 @@ Collection of LeetCode questions
 | ------- |
 | [0015-3sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
