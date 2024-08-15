@@ -1,83 +1,45 @@
 class Solution {
-private:
-    // Directions for adjacent cells: right, left, down, up
-    const vector<vector<int>> DIRECTIONS = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-
 public:
-    int minDays(vector<vector<int>>& grid) {
-        int rows = grid.size();
-        int cols = grid[0].size();
-
-        // Count initial islands
-        int initialIslandCount = countIslands(grid);
-
-        // Already disconnected or no land
-        if (initialIslandCount != 1) {
-            return 0;
-        }
-
-        // Try removing each land cell
-        for (int row = 0; row < rows; row++) {
-            for (int col = 0; col < cols; col++) {
-                if (grid[row][col] == 0) continue;  // Skip water
-
-                // Temporarily change to water
-                grid[row][col] = 0;
-                int newIslandCount = countIslands(grid);
-
-                // Check if disconnected
-                if (newIslandCount != 1) return 1;
-
-                // Revert change
-                grid[row][col] = 1;
-            }
-        }
-
-        return 2;
+    bool valid (int i, int j, int n, int m) {
+        return i >= 0 && j >= 0 && i < n && j < m; 
     }
 
-private:
-    int countIslands(vector<vector<int>>& grid) {
-        int rows = grid.size();
-        int cols = grid[0].size();
-        vector<vector<bool>> visited(rows, vector<bool>(cols, false));
-        int islandCount = 0;
+    void dfs (int i, int j, vector<vector<int>>& grid, vector<vector<int>>& visited) {
+        if(!valid(i, j, grid.size(), grid[0].size()) || visited[i][j] || grid[i][j] == 0) return;
+        visited[i][j] = 1;
+        dfs(i+1, j, grid, visited);
+        dfs(i-1, j, grid, visited);
+        dfs(i, j+1, grid, visited);
+        dfs(i, j-1, grid, visited);
+    }
 
-        // Iterate through all cells
-        for (int row = 0; row < rows; row++) {
-            for (int col = 0; col < cols; col++) {
-                // Found new island
-                if (!visited[row][col] && grid[row][col] == 1) {
-                    exploreIsland(grid, row, col, visited);
-                    islandCount++;
+    int getNumberOfIslands (vector<vector<int>>& grid) {
+        int numberOfIslands = 0;
+        vector<vector<int>> visited (grid.size(), vector<int>(grid[0].size(), 0));
+        for(int i=0; i<grid.size(); i++){
+            for(int j=0; j<grid[0].size(); j++){
+                if(grid[i][j] == 1 && !visited[i][j]){
+                    dfs(i, j, grid, visited);
+                    numberOfIslands++;
                 }
             }
         }
-        return islandCount;
+        return numberOfIslands;
     }
 
-    // Helper method to explore all cells of an island
-    void exploreIsland(vector<vector<int>>& grid, int row, int col,
-                       vector<vector<bool>>& visited) {
-        visited[row][col] = true;
-
-        // Check all adjacent cells
-        for (const auto& direction : DIRECTIONS) {
-            int newRow = row + direction[0];
-            int newCol = col + direction[1];
-            // Explore if valid land cell
-            if (isValidLandCell(grid, newRow, newCol, visited)) {
-                exploreIsland(grid, newRow, newCol, visited);
+    int minDays(vector<vector<int>>& grid) {
+        int numberOfIslands = getNumberOfIslands(grid);
+        if(numberOfIslands != 1) return 0;
+        for(int i=0; i<grid.size(); i++){
+            for(int j=0; j<grid[0].size(); j++){
+                if(grid[i][j] == 1){
+                    grid[i][j] = 0;
+                    int temp = getNumberOfIslands(grid);
+                    if(temp != 1) return 1;
+                    grid[i][j] = 1;
+                }
             }
         }
-    }
-
-    bool isValidLandCell(const vector<vector<int>>& grid, int row, int col,
-                         const vector<vector<bool>>& visited) {
-        int rows = grid.size();
-        int cols = grid[0].size();
-        // Check bounds, land, and not visited
-        return row >= 0 && col >= 0 && row < rows && col < cols &&
-               grid[row][col] == 1 && !visited[row][col];
+        return 2;
     }
 };
