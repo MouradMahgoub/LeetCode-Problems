@@ -10,8 +10,9 @@ public:
         dfs(i+1, sum+candidates[i], target, candidates);
         curr.pop_back();
         //not including
-        while(i < candidates.size()-1 && candidates[i] == candidates[i+1]) i++;
-        dfs(i+1, sum, target, candidates);
+        int it = upper_bound(candidates.begin(), candidates.end(), candidates[i]) - candidates.begin();
+        // while(i < candidates.size()-1 && candidates[i] == candidates[i+1]) i++;
+        dfs(it, sum, target, candidates);
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(), candidates.end());
