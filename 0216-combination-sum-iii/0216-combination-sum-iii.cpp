@@ -5,11 +5,8 @@ public:
     vector<int> temp;
 
     void dfs (int i, int len, int sum, int k, int target) {
-        if(sum == target && len == k) {
-            ans.push_back(temp);
-            return;
-        }
-        if(i > 8 || len > k || sum > target) return;
+        if(sum == target && len == k) ans.push_back(temp);
+        if(i > 8 || len > k || sum >= target) return;
 
         temp.push_back(arr[i]);
         dfs(i+1, len+1, sum+arr[i], k, target);
