@@ -274,6 +274,7 @@ Collection of LeetCode questions
 | [0078-subsets](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0624-maximum-distance-in-arrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
@@ -444,4 +446,12 @@ Collection of LeetCode questions
 | [0040-combination-sum-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
