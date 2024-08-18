@@ -351,6 +351,7 @@ Collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [2402-maximum-xor-after-operations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2402-maximum-xor-after-operations) |
