@@ -311,6 +311,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0273-integer-to-english-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [1063-best-sightseeing-pair](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -454,6 +456,7 @@ Collection of LeetCode questions
 | [0047-permutations-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 ## Enumeration
 |  |
