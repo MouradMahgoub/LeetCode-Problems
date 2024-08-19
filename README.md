@@ -362,6 +362,7 @@ Collection of LeetCode questions
 | [0263-ugly-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [2402-maximum-xor-after-operations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2402-maximum-xor-after-operations) |
 ## Bit Manipulation
@@ -387,6 +388,7 @@ Collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [1063-best-sightseeing-pair](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
