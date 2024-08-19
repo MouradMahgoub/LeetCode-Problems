@@ -1,29 +1,31 @@
 class Solution {
 public:
     vector<vector<string>> ans;
-    vector<string> part;
+    vector<string> tempList;
+
     bool is_palindrome (string s) {
-        int l=0, r = s.size()-1;
-        while(l < r) if(s[l++] != s[r--]) return false;
+        for(int i=0; i<s.size()/2; i++)
+            if(s[i] != s[s.size()-1-i]) return false;
         return true;
     }
-    void foo (int start, string s) {
+
+    void dfs (int start, string s) {
         if(start == s.size()){
-            ans.push_back(part);
+            ans.push_back(tempList);
             return;
-        } 
-        string temp = "";
+        }
         for(int i=start; i<s.size(); i++){
-            temp += s[i];
-            if(is_palindrome(temp)){
-                part.push_back(temp);
-                foo(i+1, s);
-                part.pop_back();
-            } 
+            string temps = s.substr(start, i-start+1); 
+            if(is_palindrome(temps)){
+                tempList.push_back(temps);
+                dfs(i+1, s);
+                tempList.pop_back();
+            }
         }
     }
+
     vector<vector<string>> partition(string s) {
-        foo(0, s);
+        dfs(0, s);
         return ans;
     }
 };
