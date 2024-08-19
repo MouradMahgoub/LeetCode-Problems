@@ -19,6 +19,8 @@ public:
     }
 
     vector<vector<int>> permute(vector<int>& nums) {
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
         visited.assign(nums.size(), 0);
         dfs(nums);
         return ans;
