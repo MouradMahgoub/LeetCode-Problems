@@ -376,6 +376,7 @@ Collection of LeetCode questions
 | ------- |
 | [0078-subsets](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0476-number-complement](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0476-number-complement) |
 | [2402-maximum-xor-after-operations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2402-maximum-xor-after-operations) |
 ## Design
 |  |
