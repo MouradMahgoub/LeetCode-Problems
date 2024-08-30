@@ -254,6 +254,7 @@ Collection of LeetCode questions
 | [1325-path-with-maximum-probability](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2803-modify-graph-edge-weights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
 ## Topological Sort
 |  |
 | ------- |
@@ -465,6 +466,7 @@ Collection of LeetCode questions
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Tree
 |  |
 | ------- |
@@ -499,4 +501,5 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
