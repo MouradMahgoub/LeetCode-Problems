@@ -7,7 +7,7 @@ public:
     bool dfs (int i, int j, vector<vector<int>>& grid1, vector<vector<int>>& grid2) {
         if(!valid(i, j, grid1.size(), grid2[0].size()) || !grid2[i][j]) return true;
         bool ans = true;
-        if(grid2[i][j] && !grid1[i][j]) ans = false;
+        if(grid2[i][j] && !grid1[i][j]) return false;
         grid1[i][j] = 0;
         grid2[i][j] = 0;
         ans = dfs(i + 1, j, grid1, grid2) && ans;
