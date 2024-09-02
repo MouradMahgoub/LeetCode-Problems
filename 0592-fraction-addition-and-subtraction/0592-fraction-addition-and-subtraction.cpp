@@ -14,6 +14,6 @@ public:
             ansN = (ansN*tempD + sign*tempN*ansD)/__gcd(ansD, tempD);
             ansD = (ansD*tempD)/__gcd(ansD, tempD);
         }
-        return to_string(ansN/abs(__gcd(ansN, ansD))) + "/" + to_string(ansD/abs(__gcd(ansN, ansD)));
+        return to_string(ansN/__gcd(abs(ansN), ansD)) + "/" + to_string(ansD/__gcd(abs(ansN), ansD));
     }
 };
