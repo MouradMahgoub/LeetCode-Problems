@@ -1,61 +1,19 @@
 class Solution {
 public:
-    string fractionAddition(string expression) {
-        int num = 0;
-        int denom = 1;
-
-        int i = 0;
-        while (i < expression.size()) {
-            int currNum = 0;
-            int currDenom = 0;
-
-            bool isNegative = false;
-
-            // check for sign
-            if (expression[i] == '-' || expression[i] == '+') {
-                if (expression[i] == '-') {
-                    isNegative = true;
-                }
-                // move to next character
-                i++;
-            }
-
-            // build numerator
-            while (isdigit(expression[i])) {
-                int val = expression[i] - '0';
-                currNum = currNum * 10 + val;
-                i++;
-            }
-
-            if (isNegative) currNum *= -1;
-
-            // skip divisor
-            i++;
-
-            // build denominator
-            while (i < expression.size() && isdigit(expression[i])) {
-                int val = expression[i] - '0';
-                currDenom = currDenom * 10 + val;
-                i++;
-            }
-
-            // add fractions together using common denominator
-            num = num * currDenom + currNum * denom;
-            denom = denom * currDenom;
+    string fractionAddition(string exp) {
+        int ansN=0, ansD=1;
+        if(exp[0] != '-') exp = '+' + exp;
+        int indx = 0, sign = 1;
+        while(indx < exp.size()){
+            int tempN = 0, tempD = 0;
+            sign = (exp[indx] == '+' ? 1 : -1);
+            indx++;
+            while(exp[indx] != '/') tempN = tempN*10 + (exp[indx++] - '0');
+            indx++;
+            while(indx < exp.size() && exp[indx] != '+' && exp[indx] != '-') tempD = tempD*10 + (exp[indx++] - '0');
+            ansN = (ansN*tempD + sign*tempN*ansD)/__gcd(ansD, tempD);
+            ansD = (ansD*tempD)/__gcd(ansD, tempD);
         }
-
-        int gcd = abs(FindGCD(num, denom));
-
-        // reduce fractions
-        num /= gcd;
-        denom /= gcd;
-
-        return to_string(num) + "/" + to_string(denom);
-    }
-
-private:
-    int FindGCD(int a, int b) {
-        if (a == 0) return b;
-        return FindGCD(b % a, a);
+        return to_string(ansN/abs(__gcd(ansN, ansD))) + "/" + to_string(ansD/abs(__gcd(ansN, ansD)));
     }
 };
