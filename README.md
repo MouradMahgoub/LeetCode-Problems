@@ -307,6 +307,7 @@ Collection of LeetCode questions
 | [2035-count-sub-islands](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2402-maximum-xor-after-operations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2402-maximum-xor-after-operations) |
@@ -393,6 +394,7 @@ Collection of LeetCode questions
 | [0650-2-keys-keyboard](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0909-stone-game) |
+| [2155-find-missing-observations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2402-maximum-xor-after-operations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2402-maximum-xor-after-operations) |
 ## Bit Manipulation
 |  |
@@ -464,6 +466,7 @@ Collection of LeetCode questions
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 ## Strongly Connected Component
 |  |
 | ------- |
