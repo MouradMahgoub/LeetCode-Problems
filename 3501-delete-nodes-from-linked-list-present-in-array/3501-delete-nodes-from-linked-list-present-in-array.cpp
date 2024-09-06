@@ -14,15 +14,15 @@ public:
 
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
         for(int num : nums) mp[num]++;
-        while(mp[head->val]) head = head->next;
-        ListNode* prev = head, * curr = head->next;
-        while(prev && curr){
-            if(mp[curr->val]) {
-                prev->next = curr->next;
+        while(head && mp[head->val]) head = head->next;
+        if(!head) return NULL;
+        ListNode* curr = head;
+        while(curr->next){
+            if(mp[curr->next->val]) {
+                curr->next = curr->next->next;
             }else{
-                prev = curr;
+                curr = curr->next;
             } 
-            curr = curr->next;
         }
         return head;
     }
