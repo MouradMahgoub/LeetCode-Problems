@@ -26,7 +26,7 @@ public:
             for(int j=0; j<partLen-1; j++){
                 curr = curr->next;
             }
-            if(partLen > 0) {
+            if(curr) {
                 ListNode* temp = curr->next;
                 curr->next = NULL;
                 curr = temp;
