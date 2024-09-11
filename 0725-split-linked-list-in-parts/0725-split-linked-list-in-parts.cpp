@@ -10,29 +10,28 @@
  */
 class Solution {
 public:
-
-    int getLen (ListNode* head) {
-        if(!head) return 0;
-        return 1 + getLen(head->next);
-    }
-
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
-        int len = getLen(head);
-        int partLen = len/k;
-        int overLen = len%k;
+        int len = 0;
+        ListNode* temp = head;
+        while(temp){
+            temp = temp->next;
+            len++;
+        }
+        int baseLen = len/k, extraLen = len%k;
         vector<ListNode*> ans;
-        while(k--){
-            int totalLen = partLen+(overLen > 0);
-            ans.push_back(head);
-            for(int i=0; i<totalLen-1; i++){
-                head = head->next;
+        ListNode* curr = head;
+        for(int i=0; i<k; i++){
+            ans.push_back(curr);
+            int partLen = baseLen+(extraLen > 0);
+            for(int j=0; j<partLen-1; j++){
+                curr = curr->next;
             }
-            if(totalLen > 0) {
-                ListNode* temp = head->next;
-                head->next = NULL;
-                head = temp;
+            if(partLen > 0) {
+                ListNode* temp = curr->next;
+                curr->next = NULL;
+                curr = temp;
             }
-            overLen--;
+            extraLen--;
         }
         return ans;
     }
