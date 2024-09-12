@@ -233,6 +233,7 @@ Collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -506,6 +508,7 @@ Collection of LeetCode questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
@@ -518,6 +521,7 @@ Collection of LeetCode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
