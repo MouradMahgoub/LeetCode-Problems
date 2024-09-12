@@ -16,7 +16,10 @@ public:
         if(!root) return;
         inOrder(root->left, k);
         i++;
-        if(i == k) ans = root->val;
+        if(i == k) {
+            ans = root->val;
+            return;
+        }
         inOrder(root->right, k);
     }
     int kthSmallest(TreeNode* root, int k) {
