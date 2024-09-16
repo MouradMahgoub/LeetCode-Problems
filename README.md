@@ -237,6 +237,7 @@ Collection of LeetCode questions
 | [0100-same-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0210-course-schedule-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0100-same-tree) |
+| [0210-course-schedule-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -262,6 +264,7 @@ Collection of LeetCode questions
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [1325-path-with-maximum-probability](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -269,6 +272,7 @@ Collection of LeetCode questions
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Union Find
 |  |
