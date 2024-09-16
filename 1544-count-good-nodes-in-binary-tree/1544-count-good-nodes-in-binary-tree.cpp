@@ -11,16 +11,24 @@
  */
 class Solution {
 public:
-    int numOfGoodNodes (TreeNode* root, int maxValue) {
+    int dfs (TreeNode* root, int maxVal) {
         if(!root) return 0;
-        maxValue = max(maxValue, root->val);
         int good = 0;
-        if(root->val >= maxValue) good++;
-        return good + numOfGoodNodes(root->left, maxValue) 
-                    + numOfGoodNodes(root->right, maxValue);
+        if(root->val >= maxVal) good++;
+        maxVal = max(maxVal, root->val);
+        return good + dfs(root->left, maxVal) 
+                    + dfs(root->right, maxVal);
     }
+    
     int goodNodes(TreeNode* root) {
-
-        return numOfGoodNodes(root, -1e9);
+        return dfs(root, -1e9);
     }
 };
+    // int dfs (TreeNode* root, int maxValue) {
+    //     if(!root) return 0;
+    //     maxValue = max(maxValue, root->val);
+    //     int good = 0;
+    //     if(root->val >= maxValue) good++;
+    //     return good + dfs(root->left, maxValue) 
+    //                 + dfs(root->right, maxValue);
+    // }
