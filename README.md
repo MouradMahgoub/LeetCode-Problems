@@ -318,6 +318,7 @@ Collection of LeetCode questions
 | [0906-walking-robot-simulation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
+| [0941-sort-array-by-parity](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1063-best-sightseeing-pair](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1325-path-with-maximum-probability](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
+| [0941-sort-array-by-parity](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -412,6 +414,7 @@ Collection of LeetCode questions
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0941-sort-array-by-parity](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
