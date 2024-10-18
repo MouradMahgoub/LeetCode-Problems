@@ -511,6 +511,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
@@ -626,6 +627,7 @@ Collection of LeetCode questions
 | [0002-add-two-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0146-lru-cache) |
