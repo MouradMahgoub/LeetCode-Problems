@@ -1,19 +1,33 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        for(int i=0; i<nums.size(); i++)
-            if(nums[i] < 0) nums[i] = 0;
-        for(int i=0; i<nums.size(); i++) {
-            int indx = abs(nums[i]) - 1;
-            if(indx >= 0 && indx < nums.size())
-                if(nums[indx] == 0) nums[indx] = -(nums.size()+1);
-                else if(nums[indx] > 0) nums[indx] *= -1;
+        int n = nums.size();
+        int i = 0;
+        while(i < n){
+            // int correctIndex = nums[i]-1;
+            if(nums[i] > 0 && nums[i] <= n && nums[i] != nums[nums[i]-1])
+                swap(nums[i], nums[nums[i]-1]);
+            else
+                i++;
         }
-        for(int i=1; i<=nums.size(); i++)
-            if(nums[i-1] >= 0) return i;
-        return nums.size()+1;
+        for(int i=1; i<=n; i++)
+            if(nums[i-1] != i)
+                return i;
+        return n+1;
     }
 };
+        // for(int i=0; i<nums.size(); i++)
+        //     if(nums[i] < 0) nums[i] = 0;
+        // for(int i=0; i<nums.size(); i++) {
+        //     int indx = abs(nums[i]) - 1;
+        //     if(indx >= 0 && indx < nums.size())
+        //         if(nums[indx] == 0) nums[indx] = -(nums.size()+1);
+        //         else if(nums[indx] > 0) nums[indx] *= -1;
+        // }
+        // for(int i=1; i<=nums.size(); i++)
+        //     if(nums[i-1] >= 0) return i;
+        // return nums.size()+1;
+
         // unordered_map<int, int> mp;
         // for(int num : nums) mp[num]++;
         // for(int i=1; i<=nums.size()+1; i++)
