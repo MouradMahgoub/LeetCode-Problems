@@ -363,6 +363,7 @@ Collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0071-simplify-path) |
@@ -409,6 +410,7 @@ Collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
@@ -472,6 +474,7 @@ Collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
