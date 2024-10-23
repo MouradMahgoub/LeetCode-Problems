@@ -315,6 +315,7 @@ Collection of LeetCode questions
 | [0377-combination-sum-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
 | [0624-maximum-distance-in-arrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0747-min-cost-climbing-stairs](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0890-lemonade-change) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions
 | [0377-combination-sum-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
 | [0650-2-keys-keyboard](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0664-strange-printer) |
+| [0747-min-cost-climbing-stairs](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0909-stone-game) |
 | [1063-best-sightseeing-pair](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
