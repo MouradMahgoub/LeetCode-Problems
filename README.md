@@ -376,6 +376,7 @@ Collection of LeetCode questions
 | [0564-find-the-closest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0647-palindromic-substrings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0664-strange-printer) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -420,6 +421,7 @@ Collection of LeetCode questions
 | [0143-reorder-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0941-sort-array-by-parity](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -488,6 +490,7 @@ Collection of LeetCode questions
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
+| [0647-palindromic-substrings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0664-strange-printer) |
 | [0747-min-cost-climbing-stairs](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
