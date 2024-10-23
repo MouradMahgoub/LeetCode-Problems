@@ -453,6 +453,7 @@ Collection of LeetCode questions
 | [0078-subsets](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -480,6 +481,7 @@ Collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
 | [0650-2-keys-keyboard](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0664-strange-printer) |
