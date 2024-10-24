@@ -325,6 +325,7 @@ Collection of LeetCode questions
 | [0921-spiral-matrix-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0941-sort-array-by-parity](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1014-k-closest-points-to-origin](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1063-best-sightseeing-pair](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1325-path-with-maximum-probability](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
+| [1014-k-closest-points-to-origin](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -451,6 +453,7 @@ Collection of LeetCode questions
 | [0650-2-keys-keyboard](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0909-stone-game) |
+| [1014-k-closest-points-to-origin](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [2155-find-missing-observations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2402-maximum-xor-after-operations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2402-maximum-xor-after-operations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -582,6 +585,7 @@ Collection of LeetCode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [2161-stock-price-fluctuation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
 | [2803-modify-graph-edge-weights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
@@ -674,10 +678,12 @@ Collection of LeetCode questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -690,4 +696,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
