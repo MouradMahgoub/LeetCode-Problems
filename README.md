@@ -314,6 +314,7 @@ Collection of LeetCode questions
 | [0216-combination-sum-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0377-combination-sum-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0747-min-cost-climbing-stairs](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions
 | [0015-3sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
@@ -495,6 +497,7 @@ Collection of LeetCode questions
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0664-strange-printer) |
@@ -512,6 +515,7 @@ Collection of LeetCode questions
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
