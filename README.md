@@ -298,6 +298,7 @@ Collection of LeetCode questions
 | [0046-permutations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
