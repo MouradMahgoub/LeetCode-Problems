@@ -309,6 +309,7 @@ Collection of LeetCode questions
 | [0084-largest-rectangle-in-histogram](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0204-count-primes) |
@@ -502,6 +503,7 @@ Collection of LeetCode questions
 | [0045-jump-game-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
