@@ -3,10 +3,12 @@ public:
     int coinChange(vector<int>& coins, int amount) {
         vector<int> dp(amount+1, 1e9);
         dp[0] = 0;
+        sort(coins.begin(), coins.end());
         for(int currAmount=1; currAmount<=amount; currAmount++)
             for(int coin : coins)
                 if(currAmount - coin >= 0)
                     dp[currAmount] = min(dp[currAmount], 1 + dp[currAmount - coin]);
+                else break;
         return dp[amount] == 1e9 ? -1 : dp[amount];
     }
 };
