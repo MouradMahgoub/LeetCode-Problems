@@ -724,4 +724,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [1338-queries-quality-and-percentage](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1338-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
