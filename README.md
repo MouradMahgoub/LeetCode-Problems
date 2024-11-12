@@ -727,6 +727,7 @@ Collection of LeetCode questions
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1338-queries-quality-and-percentage](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1338-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
