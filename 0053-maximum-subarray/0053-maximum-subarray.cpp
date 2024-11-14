@@ -65,13 +65,40 @@ int in = [] {
 }();
 class Solution {
 public:
-    int maxSubArray(vector<int>& nums) {
-        int mxSum = nums[0], currSum = 0;
-        for(int i=0; i<nums.size(); i++){
-            if(currSum < 0) currSum = 0;
-            currSum += nums[i];
-            mxSum = max(mxSum, currSum);
+
+    int maxSubArr (vector<int>& v, int l, int r) {
+        if(l == r) return v[l];
+        int mid = l + (r-l)/2;
+        int leftMax = maxSubArr(v, l, mid);
+        int rightMax = maxSubArr(v, mid+1, r);
+        int crossMax = maxCross(v, l, mid, r);
+        return max(crossMax, max(leftMax, rightMax));
+    }
+
+    int maxCross(vector<int>& v, int l, int mid, int r) {
+        int maxLeft = -1e9;
+        int sum = 0;
+        for(int i=mid; i>=l; i--){
+            sum += v[i];
+            maxLeft = max(maxLeft, sum);
         }
-        return mxSum;
+        int maxRight = 0;
+        sum = 0;
+        for(int i=mid+1; i<=r; i++){
+            sum += v[i];
+            maxRight = max(maxRight, sum);
+        }
+        return maxLeft + maxRight;
+    }
+
+    int maxSubArray(vector<int>& v) {
+        return maxSubArr(v, 0, v.size()-1);
+        // int mxSum = nums[0], currSum = 0;
+        // for(int i=0; i<nums.size(); i++){
+        //     if(currSum < 0) currSum = 0;
+        //     currSum += nums[i];
+        //     mxSum = max(mxSum, currSum);
+        // }
+        // return mxSum;
     }
 };
