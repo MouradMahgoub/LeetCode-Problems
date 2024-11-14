@@ -299,6 +299,7 @@ Collection of LeetCode questions
 | [0045-jump-game-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0057-insert-interval) |
@@ -502,6 +503,7 @@ Collection of LeetCode questions
 | [0005-longest-palindromic-substring](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -701,6 +703,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
