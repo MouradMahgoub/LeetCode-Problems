@@ -318,6 +318,7 @@ Collection of LeetCode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions
 | [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -512,6 +514,7 @@ Collection of LeetCode questions
 | [0198-house-robber](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
