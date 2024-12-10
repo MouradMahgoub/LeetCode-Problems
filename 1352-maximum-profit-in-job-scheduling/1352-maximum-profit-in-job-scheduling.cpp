@@ -10,31 +10,17 @@ public:
         const pair<pair<int, int>, int> &b) {
             return a.first.second < b.first.second;
         });
-        // vector<pair<int, int>> dp;
-        // dp.push_back({0, 0});
-        map<int, int> mp;
-        mp[0] = 0;
+        vector<pair<int, int>> dp;
+        dp.push_back({0, 0});
         for(auto &[temp, p] : v){
-            auto &[s, e] = temp;
-            int taken = p + (--mp.upper_bound(s))->second;
-            int notTaken = mp.rbegin()->second;
-            if(taken > notTaken)
-                mp[e] = taken;
-            // int taken = p;
-            // for(int i=dp.size()-1; i>=0; i--)
-            //     if(dp[i].first <= s){
-            //         taken += dp[i].second;
-            //         break;
-            //     }
-            // auto it = upper_bound(dp.begin(), dp.end(), s);
-            // if(it == dp.end() || *it->first > s) it--;
-
-            // int taken = p + *it->second;
-            // int notTaken = dp[dp.size()-1].second;
-            // if(taken > notTaken) 
-            //     dp.push_back({e, taken});            
+            auto& [s, e] = temp;
+            auto it = --upper_bound(dp.begin(), dp.end(), pair<int, int>{s, INT_MAX}, 
+            [](const pair<int, int> &a, const pair<int, int> &b) { return a.first < b.first; });
+            int taken = p + it->second;
+            int notTaken = dp[dp.size()-1].second;
+            if(taken > notTaken) 
+                dp.push_back({e, taken});            
         }
-        return mp.rbegin()->second;
-        // return dp[dp.size()-1].second;
+        return dp[dp.size()-1].second;
     }
 };
