@@ -390,6 +390,7 @@ Collection of LeetCode questions
 | [0131-palindrome-partitioning](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0564-find-the-closest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions
 | [0143-reorder-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
 ## Two Pointers
@@ -576,6 +578,7 @@ Collection of LeetCode questions
 | [0143-reorder-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0394-decode-string) |
 ## Simulation
 |  |
 | ------- |
