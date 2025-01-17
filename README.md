@@ -311,6 +311,7 @@ Collection of LeetCode questions
 | [0084-largest-rectangle-in-histogram](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0198-house-robber) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
@@ -388,6 +390,7 @@ Collection of LeetCode questions
 | [0079-word-search](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0394-decode-string) |
@@ -518,6 +521,7 @@ Collection of LeetCode questions
 | [0072-edit-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0213-house-robber-ii) |
@@ -759,4 +763,12 @@ Collection of LeetCode questions
 | [0184-department-highest-salary](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0197-rising-temperature) |
 | [1338-queries-quality-and-percentage](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1338-queries-quality-and-percentage) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
