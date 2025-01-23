@@ -264,6 +264,7 @@ Collection of LeetCode questions
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Graph
@@ -348,6 +349,7 @@ Collection of LeetCode questions
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1876-map-of-highest-peak](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -577,6 +579,7 @@ Collection of LeetCode questions
 | [0921-spiral-matrix-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
