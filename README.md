@@ -251,6 +251,7 @@ Collection of LeetCode questions
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions
 | [1396-count-servers-that-communicate](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1876-map-of-highest-peak](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2035-count-sub-islands) |
@@ -277,6 +279,7 @@ Collection of LeetCode questions
 | [0801-is-graph-bipartite](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1325-path-with-maximum-probability](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2803-modify-graph-edge-weights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
@@ -285,6 +288,7 @@ Collection of LeetCode questions
 | ------- |
 | [0210-course-schedule-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
