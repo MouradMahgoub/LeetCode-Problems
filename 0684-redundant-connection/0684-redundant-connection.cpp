@@ -30,25 +30,12 @@ public:
             adjList[edge[0]-1].push_back(edge[1]-1);    
             adjList[edge[1]-1].push_back(edge[0]-1);    
         }
-
-        for(int i=0; i<n; i++)
-            if(!visited[i] && dfs(i, parent[i])) break;
-        if(cycle_start == -1){
-           return {-1, -1};
-        }else{
-            vector<int> cycle;
-            cycle.push_back(cycle_start);
-            for(int v = cycle_end; v != cycle_start; v = parent[v])
-                cycle.push_back(v);
-            cycle.push_back(cycle_start);
-            set<pair<int, int>> cycle_edges;
-            for(int i=0; i<cycle.size()-1; i++)
-                cycle_edges.insert({cycle[i]+1, cycle[i+1]+1});
-            for(int i=edges.size()-1; i>=0; i--)
-                if(cycle_edges.count({edges[i][0], edges[i][1]}) 
-                || cycle_edges.count({edges[i][1], edges[i][0]}))
-                    return edges[i];
-        }
-        return {-1, -1};
+        dfs(0, -1);
+        unordered_map<int, int> mp;
+        mp[cycle_start]++;
+        for(int u = cycle_end; u != cycle_start; u = parent[u]) mp[u]++;
+        for(int i=edges.size()-1; i>=0; i--)
+            if(mp[edges[i][0]-1] && mp[edges[i][1]-1]) return edges[i];
+        return {-1, -1};        
     }
 };
