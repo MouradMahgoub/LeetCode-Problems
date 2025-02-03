@@ -4,8 +4,9 @@ public:
         int n = nums.size();
         if(n <= 2) return true;
         int cnt = 0;
-        for(int i=0; i<n; i++)
-            if(!(nums[(n+i-1)%n] <= nums[i] && nums[i] <= nums[(i+1)%n])) cnt++;
-        return (cnt <= 2);
+        for(int i=0; i<n-1; i++)
+            if(nums[i] > nums[i+1]) cnt++;
+        if(nums[n-1] > nums[0]) cnt++;
+        return (cnt <= 1);
     }
 };
