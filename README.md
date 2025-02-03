@@ -801,6 +801,7 @@ Collection of LeetCode questions
 | [0197-rising-temperature](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0197-rising-temperature) |
 | [1338-queries-quality-and-percentage](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1338-queries-quality-and-percentage) |
 | [1942-primary-department-for-each-employee](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1942-primary-department-for-each-employee) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Trie
 |  |
 | ------- |
