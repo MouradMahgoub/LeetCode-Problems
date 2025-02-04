@@ -370,6 +370,7 @@ Collection of LeetCode questions
 | [1786-count-the-number-of-consistent-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-map-of-highest-peak](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
