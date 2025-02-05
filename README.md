@@ -807,6 +807,7 @@ Collection of LeetCode questions
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1338-queries-quality-and-percentage](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1338-queries-quality-and-percentage) |
 | [1942-primary-department-for-each-employee](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1942-primary-department-for-each-employee) |
+| [2087-confirmation-rate](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Trie
 |  |
