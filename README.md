@@ -387,6 +387,7 @@ Collection of LeetCode questions
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -410,6 +411,7 @@ Collection of LeetCode questions
 | [2161-stock-price-fluctuation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -640,6 +642,7 @@ Collection of LeetCode questions
 | [2132-convert-1d-array-into-2d-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Strongly Connected Component
 |  |
 | ------- |
