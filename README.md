@@ -818,6 +818,7 @@ Collection of LeetCode questions
 | [0184-department-highest-salary](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1292-immediate-food-delivery-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1338-queries-quality-and-percentage) |
 | [1942-primary-department-for-each-employee](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1942-primary-department-for-each-employee) |
