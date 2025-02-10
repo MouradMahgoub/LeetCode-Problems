@@ -442,6 +442,7 @@ Collection of LeetCode questions
 | [2163-kth-distinct-string-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3447-clear-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -478,6 +479,7 @@ Collection of LeetCode questions
 | [0394-decode-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
+| [3447-clear-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -645,6 +647,7 @@ Collection of LeetCode questions
 | [2155-find-missing-observations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3447-clear-digits) |
 ## Strongly Connected Component
 |  |
 | ------- |
