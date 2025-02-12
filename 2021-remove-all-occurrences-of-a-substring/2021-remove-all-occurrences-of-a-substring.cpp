@@ -1,17 +1,31 @@
 class Solution {
 public:
-    string removeOccurrences(string s, string part) {
-        // Continue removing occurrences of 'part' as long as it exists in 's'
-        while (s.find(part) != string::npos) {
-            // Find the index of the leftmost occurrence of 'part'
-            size_t part_start_index = s.find(part);
-
-            // Remove the substring 'part' from 's' by concatenating the
-            // segments before and after 'part'
-            s = s.substr(0, part_start_index) +
-                s.substr(part_start_index + part.length());
+    bool check(stack<char> &stk, string &part){
+        stack<char> temp = stk;
+        for(int i=part.size()-1; i>=0; i--) {
+            if(temp.top() != part[i])
+                return false;
+            temp.pop();
         }
-        // Return the updated string after all occurrences are removed
-        return s;
+        return true;
     }
+
+    string removeOccurrences(string s, string part) {
+        stack<char> stk;
+        int sLen = s.size(), pLen = part.size();
+        for(int i=0; i<sLen; i++){
+            stk.push(s[i]);
+            if(stk.size() >= pLen && check(stk, part)){
+                for(int j=0; j<pLen; j++) stk.pop();
+            }
+        }
+        string ans = "";
+        while(!stk.empty()){
+            ans = stk.top() + ans;
+            stk.pop();
+        }
+        return ans;
+    }
+
+
 };
