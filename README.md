@@ -443,6 +443,7 @@ Collection of LeetCode questions
 | [1160-letter-tile-possibilities](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -748,6 +749,7 @@ Collection of LeetCode questions
 | [0257-binary-tree-paths](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
