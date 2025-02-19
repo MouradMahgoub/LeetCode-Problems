@@ -1,19 +1,22 @@
 class Solution {
 public:
-    void dfs (int n, string currStr, vector<string>& strVec) {
+    string ans = "";
+    int cnt = 0;
+    void dfs (int n, int k, string currStr) {
         if(n == currStr.size()) {
-            strVec.push_back(currStr);
+            cnt++;
+            if(cnt == k) ans = currStr;
             return;
         }
         for(char c = 'a'; c <= 'c'; c++){
             if(currStr.size() && currStr.back() == c) continue;
-            dfs(n, currStr + c, strVec);
+            dfs(n, k, currStr + c);
+            if(ans != "") return;
         }
     }
 
     string getHappyString(int n, int k) {
-        vector<string> strVec;
-        dfs(n, "", strVec);
-        return k <= strVec.size() ? strVec[k-1] : "";
+        dfs(n, k, "");
+        return ans;
     }
 };
