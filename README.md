@@ -248,6 +248,7 @@ Collection of LeetCode questions
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -440,6 +441,7 @@ Collection of LeetCode questions
 | [0592-fraction-addition-and-subtraction](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0664-strange-printer) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
@@ -687,6 +689,7 @@ Collection of LeetCode questions
 | [0572-subtree-of-another-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -725,6 +728,7 @@ Collection of LeetCode questions
 | [0543-diameter-of-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Data Stream
