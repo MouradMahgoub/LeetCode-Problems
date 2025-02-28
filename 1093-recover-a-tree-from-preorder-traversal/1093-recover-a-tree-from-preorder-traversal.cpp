@@ -1,50 +1,48 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    TreeNode* recoverFromPreorder(string traversal) {
-        stack<TreeNode*> stack;
-        int index = 0;
-
-        while (index < traversal.size()) {
-            // Count the number of dashes
-            int depth = 0;
-            while (index < traversal.size() && traversal[index] == '-') {
-                depth++;
-                index++;
+    vector<int> getInfo (int index, string s) {
+        int depth = 0, i = 0, num = 0;
+        for(i=index; i<s.size(); i++){
+            if(s[i] == '-') depth++;
+            else {
+                num = 0;
+                while(i < s.size() && s[i] != '-')
+                    num = num*10 + (s[i++] - '0');
+                break;
             }
-
-            // Extract the node value
-            int value = 0;
-            while (index < traversal.size() && isdigit(traversal[index])) {
-                value = value * 10 + (traversal[index] - '0');
-                index++;
-            }
-
-            // Create the current node
-            TreeNode* node = new TreeNode(value);
-
-            // Adjust the stack to the correct depth
-            while (stack.size() > depth) {
-                stack.pop();
-            }
-
-            // Attach the node to the parent
-            if (!stack.empty()) {
-                if (stack.top()->left == nullptr) {
-                    stack.top()->left = node;
-                } else {
-                    stack.top()->right = node;
-                }
-            }
-
-            // Push the current node onto the stack
-            stack.push(node);
         }
+        return {num, depth, i};
+    }
 
-        // The root is the first node in the stack
-        while (stack.size() > 1) {
-            stack.pop();
+    TreeNode* recoverFromPreorder(string s) {
+        stack<TreeNode*> st;
+        int j = 0, num = 0, depth = 0;
+        while(j < s.size() && s[j] != '-')
+            num = num*10 + (s[j++] - '0');
+        TreeNode* root = new TreeNode (num);
+        st.push(root);
+        for(int i=j; i<s.size(); i++){
+            vector<int> v = getInfo(i, s);
+            num = v[0]; depth = v[1];
+            i = v[2] - 1;
+            TreeNode* child = new TreeNode(num);
+            while(st.size() > depth) st.pop();
+            TreeNode* parent = st.top();
+            if(!parent->left) parent->left = child;
+            else parent->right = child;
+            st.push(child);
         }
-
-        return stack.top();
+        return root;
     }
 };
