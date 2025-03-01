@@ -18,17 +18,13 @@ public:
         else if(bobStep[node] == level) currProfit = amount[node]/2;
         else if(bobStep[node] < level) currProfit = 0; 
 
-        if(node != 0 && adj[node].size() == 1){
-            cout << currProfit << "\n"; 
-            return currProfit;
-        } 
+        if(node != 0 && adj[node].size() == 1) return currProfit;
 
         int maxChild = -1e9;
         for(int nei : adj[node]) {
             if(nei == parent) continue;
             maxChild = max(maxChild, dfsAlice(nei, node, level+1, amount));
         }
-        cout << currProfit + maxChild << "\n"; 
         return currProfit + maxChild;
     }
 
@@ -41,7 +37,6 @@ public:
         }
         bobStep = vector<int> (n, -1e9);
         dfsBob(0, -1, 0, bob);
-        for(int i=0; i<n; i++) cout << i << " " << bobStep[i] << "\n";
         return dfsAlice(0, -1, 0, amount);
     }
 };
