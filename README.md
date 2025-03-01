@@ -442,6 +442,7 @@ Collection of LeetCode questions
 | [0005-longest-palindromic-substring](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0079-word-search) |
@@ -547,6 +548,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0204-count-primes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
@@ -687,6 +689,7 @@ Collection of LeetCode questions
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
