@@ -1,20 +1,22 @@
 class Solution {
 public:
+
     string add (string s1, string s2) {
-        reverse(s1.begin(), s1.end());
-        reverse(s2.begin(), s2.end());
-        while(s1.size() < s2.size()) s1 += '0';
-        while(s2.size() < s1.size()) s2 += '0';
-        string ans(s1.size()+1, '0');
-        for(int i=0; i<s1.size(); i++){
-            int res= (ans[i] - '0') + (s1[i] - '0') + (s2[i] - '0');
-            ans[i] = '0' + res%10;
-            ans[i+1] = '0' + res/10;
+        int i = s1.size()-1, j = s2.size()-1;
+        int carry = 0;
+        string ans = "";
+        while(i >= 0 || j >= 0 || carry){
+            int d1 = (i >= 0 ? s1[i] - '0' : 0);
+            int d2 = (j >= 0 ? s2[j] - '0' : 0);
+            int res = d1 + d2 + carry;
+            ans.push_back('0' + res%10);
+            carry = res/10;
+            i--; j--;
         }
-        while(ans.size() > 1 && ans.back() == '0') ans.pop_back();
         reverse(ans.begin(), ans.end());
         return ans;
     }
+
     string multiply(string s1, string s2) {
         if(s1 == "0" || s2 == "0") return "0";
         string ans = "0";
