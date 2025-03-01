@@ -452,6 +452,7 @@ Collection of LeetCode questions
 | [0257-binary-tree-paths](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
@@ -555,6 +556,7 @@ Collection of LeetCode questions
 | [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
@@ -692,6 +694,7 @@ Collection of LeetCode questions
 | [0043-multiply-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
