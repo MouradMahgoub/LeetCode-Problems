@@ -362,6 +362,7 @@ Collection of LeetCode questions
 | [0890-lemonade-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0909-stone-game) |
+| [0912-random-pick-with-weight](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0912-random-pick-with-weight) |
 | [0921-spiral-matrix-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
@@ -537,6 +538,7 @@ Collection of LeetCode questions
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0912-random-pick-with-weight](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0912-random-pick-with-weight) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -555,6 +557,7 @@ Collection of LeetCode questions
 | [0650-2-keys-keyboard](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0909-stone-game) |
+| [0912-random-pick-with-weight](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -812,6 +815,7 @@ Collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0912-random-pick-with-weight](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0912-random-pick-with-weight) |
 | [1435-xor-queries-of-a-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -906,4 +910,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
