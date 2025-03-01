@@ -1,52 +1,47 @@
 class Solution {
 public:
-    vector<vector<int>>adj;
-    vector<int>par,dis;
-	//Find the parent and distance from node 0
-    void dfs(int u,int p = 0,int d = 0){
-        dis[u] = d;
-        par[u] = p;
-        for(int v:adj[u]){
-            if(v==p)continue;
-            dfs(v,u,d+1);
+    vector<int> bobStep;
+    vector<vector<int>> adj;
+
+    int dfsBob (int node, int parent, int level, int bob) {
+        if(node == bob) return bobStep[node] = 0;
+        for(int nei : adj[node]){
+            if(nei == parent) continue;
+            bobStep[node] = max(bobStep[node], dfsBob(nei, node, level+1, bob)+1);
         }
+        return bobStep[node];
     }
-	// Find total sum to each node
-    int dfs2(int u,vector<int>&amount,int p= 0){
-        int ret = amount[u];
-        int mxc = -INT_MAX;
-        for(int v:adj[u]){
-            if(v!=p){
-                mxc= max(mxc,dfs2(v,amount,u));
-            }
+
+    int dfsAlice (int node, int parent, int level,vector<int>& amount) {
+        int currProfit = 0;
+        if(bobStep[node] < 0 || bobStep[node] > level) currProfit = amount[node];
+        else if(bobStep[node] == level) currProfit = amount[node]/2;
+        else if(bobStep[node] < level) currProfit = 0; 
+
+        if(node != 0 && adj[node].size() == 1){
+            cout << currProfit << "\n"; 
+            return currProfit;
+        } 
+
+        int maxChild = -1e9;
+        for(int nei : adj[node]) {
+            if(nei == parent) continue;
+            maxChild = max(maxChild, dfsAlice(nei, node, level+1, amount));
         }
-		//if the node is leaf we just return its amount
-        if(mxc==-INT_MAX)return ret;
-        else return ret+mxc;
+        cout << currProfit + maxChild << "\n"; 
+        return currProfit + maxChild;
     }
+
     int mostProfitablePath(vector<vector<int>>& edges, int bob, vector<int>& amount) {
         int n = amount.size();
-        adj.resize(n,vector<int>());
-        for(auto&e:edges){
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]);
+        adj.resize(n);
+        for(auto edge : edges) {
+            adj[edge[0]].push_back(edge[1]);
+            adj[edge[1]].push_back(edge[0]);
         }
-        par.resize(n);
-        dis.resize(n);
-        dfs(0);
-        int cur = bob;
-        int bob_dis = 0;
-		//update the path of from Bob to 0
-        while(cur!=0){
-            if(dis[cur]>bob_dis){
-                amount[cur] = 0;
-            }else if(dis[cur]==bob_dis){
-                amount[cur]/=2;
-            }
-            cur = par[cur];
-            bob_dis++;
-        }
-        return dfs2(0,amount);
+        bobStep = vector<int> (n, -1e9);
+        dfsBob(0, -1, 0, bob);
+        for(int i=0; i<n; i++) cout << i << " " << bobStep[i] << "\n";
+        return dfsAlice(0, -1, 0, amount);
     }
-    
 };
