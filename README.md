@@ -345,6 +345,7 @@ Collection of LeetCode questions
 | [0213-house-robber-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0322-coin-change) |
@@ -415,6 +416,7 @@ Collection of LeetCode questions
 | [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
@@ -478,6 +480,7 @@ Collection of LeetCode questions
 | [0015-3sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -530,6 +533,7 @@ Collection of LeetCode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -543,6 +547,7 @@ Collection of LeetCode questions
 | [0204-count-primes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0564-find-the-closest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
@@ -564,6 +569,7 @@ Collection of LeetCode questions
 | [0090-subsets-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
