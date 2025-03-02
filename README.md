@@ -245,6 +245,7 @@ Collection of LeetCode questions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions
 | [0100-same-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0210-course-schedule-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
@@ -287,6 +289,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
@@ -307,6 +310,7 @@ Collection of LeetCode questions
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
