@@ -27,9 +27,7 @@ public:
         vector<double> ans;
         for(auto q : qs){
             visited.clear();
-            string a = q[0];
-            string b = q[1];
-            ans.push_back(dfs(a, b));
+            ans.push_back(dfs(q[0], q[1]));
         }
         return ans;
     }
