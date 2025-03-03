@@ -414,6 +414,7 @@ Collection of LeetCode questions
 | [2155-find-missing-observations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2402-maximum-xor-after-operations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2402-maximum-xor-after-operations) |
 | [2411-spiral-matrix-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -556,6 +557,7 @@ Collection of LeetCode questions
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0941-sort-array-by-parity](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -733,6 +735,7 @@ Collection of LeetCode questions
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2155-find-missing-observations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
