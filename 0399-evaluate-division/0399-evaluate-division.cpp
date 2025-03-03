@@ -8,10 +8,10 @@ public:
         if(a == b) return 1;
         visited[a] = true;
         for(auto [nei, val] : adj[a]){
-            if(nei == b) return val;
-            double res = -1;
-            if(!visited[nei]) res = dfs(nei, b);
-            if(res != -1) return val * res;
+            if(!visited[nei]){
+                double res = dfs(nei, b);
+                if(res != -1) return val * res;
+            }
         }
         return -1;
     }
