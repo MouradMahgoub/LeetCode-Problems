@@ -4,6 +4,8 @@ public:
     unordered_map<string, bool> visited;
 
     double dfs (string a, string b) {
+        if(adj.find(a) == adj.end() || adj.find(b) == adj.end()) return -1;
+        if(a == b) return 1;
         visited[a] = true;
         for(auto [nei, val] : adj[a]){
             if(nei == b) return val;
@@ -27,9 +29,7 @@ public:
             visited.clear();
             string a = q[0];
             string b = q[1];
-            if(adj.find(a) == adj.end() || adj.find(b) == adj.end()) ans.push_back(-1.0);
-            else if(a == b) ans.push_back(1.0);
-            else ans.push_back(dfs(a, b));
+            ans.push_back(dfs(a, b));
         }
         return ans;
     }
