@@ -370,6 +370,7 @@ Collection of LeetCode questions
 | [0399-evaluate-division](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -513,6 +514,7 @@ Collection of LeetCode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
@@ -691,6 +693,7 @@ Collection of LeetCode questions
 | [0045-jump-game-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0890-lemonade-change) |
