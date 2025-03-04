@@ -1,22 +1,17 @@
 class Solution {
 public:
     int eraseOverlapIntervals(vector<vector<int>>& inter) {
-        sort(inter.begin(), inter.end());
-        int prevStart = inter[0][0], prevEnd = inter[0][1];
-        int cnt = 0;
+        sort(inter.begin(), inter.end(), [](const auto& a, const auto& b){
+            return a[1] < b[1];
+        });
+        int nonOverlapping = 1;
+        int tempEnd = inter[0][1];
         for(int i=1; i<inter.size(); i++){
-            int currStart = inter[i][0], currEnd = inter[i][1];
-            if(prevEnd > currStart){
-                cnt++;
-                if(prevEnd > currEnd){
-                    prevStart = currStart;
-                    prevEnd = currEnd;
-                }
-            }else{
-                prevStart = currStart;
-                prevEnd = currEnd;
+            if(tempEnd <= inter[i][0]){
+                nonOverlapping++;
+                tempEnd = inter[i][1];
             }
         }
-        return cnt;
+        return inter.size() - nonOverlapping;
     }
 };
