@@ -774,6 +774,7 @@ Collection of LeetCode questions
 | [0543-diameter-of-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -786,6 +787,7 @@ Collection of LeetCode questions
 | [0098-validate-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -818,6 +820,7 @@ Collection of LeetCode questions
 | [0257-binary-tree-paths](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
