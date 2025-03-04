@@ -421,6 +421,7 @@ Collection of LeetCode questions
 | [2411-spiral-matrix-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2551-apply-operations-to-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -497,6 +498,7 @@ Collection of LeetCode questions
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2727-number-of-senior-citizens](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3447-clear-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3447-clear-digits) |
