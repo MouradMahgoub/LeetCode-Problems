@@ -541,6 +541,7 @@ Collection of LeetCode questions
 | [0739-daily-temperatures](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3447-clear-digits) |
@@ -625,6 +626,7 @@ Collection of LeetCode questions
 | [0146-lru-cache](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2161-stock-price-fluctuation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
 | [2434-design-a-number-container-system](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
@@ -635,6 +637,7 @@ Collection of LeetCode questions
 | [0084-largest-rectangle-in-histogram](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0937-online-stock-span) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -817,6 +820,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2161-stock-price-fluctuation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
 ## Backtracking
