@@ -374,6 +374,7 @@ Collection of LeetCode questions
 | [0621-task-scheduler](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0739-daily-temperatures](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
@@ -537,6 +538,7 @@ Collection of LeetCode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -631,6 +633,7 @@ Collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
 ## Dynamic Programming
 |  |
