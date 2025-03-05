@@ -255,6 +255,7 @@ Collection of LeetCode questions
 | [0871-keys-and-rooms](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions
 | [0871-keys-and-rooms](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1036-rotting-oranges) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -782,6 +784,7 @@ Collection of LeetCode questions
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -831,6 +834,7 @@ Collection of LeetCode questions
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Data Stream
