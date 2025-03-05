@@ -241,6 +241,7 @@ Collection of LeetCode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions
 | [0131-palindrome-partitioning](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0394-decode-string) |
@@ -640,6 +642,7 @@ Collection of LeetCode questions
 | [0146-lru-cache](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -986,6 +989,7 @@ Collection of LeetCode questions
 | ------- |
 | [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Memoization
 |  |
 | ------- |
