@@ -21,16 +21,15 @@ public:
     }
     
     bool search(string word) {
-       return search(root, word);
+       return search(0, root, word);
     }
 
-    bool search(Node* curr, string word) {
-        for(int i=0; i<word.size(); i++){
+    bool search(int indx, Node* curr, string word) {
+        for(int i=indx; i<word.size(); i++){
             char c = word[i];
             if(c == '.') {
-                string remStr = word.substr(i+1);
                 for(auto [c, node] : curr->children)
-                    if(node && search(node, remStr)) 
+                    if(node && search(i+1, node, word)) 
                         return true;
                 return false;
             }
