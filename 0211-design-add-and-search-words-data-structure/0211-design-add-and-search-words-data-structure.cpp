@@ -25,7 +25,6 @@ public:
     }
 
     bool search(Node* curr, string word) {
-        if(word.empty()) return curr && curr->endOfWord;
         for(int i=0; i<word.size(); i++){
             char c = word[i];
             if(c == '.') {
