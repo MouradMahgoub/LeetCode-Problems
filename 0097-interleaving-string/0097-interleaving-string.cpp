@@ -7,18 +7,12 @@ public:
         if(memo[i][j] != -1) return memo[i][j];
         if(i + j == s3.size()) return memo[i][j] = true;
         if(i == n) {
-            while(j < m) {
-                if(s3[i+j] != s2[j]) return memo[i][j] = false;
-                j++;
-            }
-            return memo[i][j] = true;
+            if(s3[i+j] == s2[j] && foo(i, j+1)) return memo[i][j] = true; 
+            return false;
         }
         if(j == m){
-            while(i < n) {
-                if(s3[i+j] != s1[i]) return memo[i][j] = false;
-                i++;
-            }
-            return memo[i][j] = true;
+            if(s3[i+j] == s1[i] && foo(i+1, j)) return memo[i][j] = true;
+            return false;
         }
 
         if(s3[i+j] == s1[i] && foo(i+1, j)) return memo[i][j] = true; 
