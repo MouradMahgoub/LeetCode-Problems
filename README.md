@@ -357,6 +357,7 @@ Collection of LeetCode questions
 | [0084-largest-rectangle-in-histogram](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
@@ -671,6 +672,7 @@ Collection of LeetCode questions
 | [0053-maximum-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
