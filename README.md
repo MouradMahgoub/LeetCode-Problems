@@ -370,6 +370,7 @@ Collection of LeetCode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0322-coin-change) |
@@ -528,6 +529,7 @@ Collection of LeetCode questions
 | [0088-merge-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0621-task-scheduler) |
@@ -1013,4 +1015,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0912-random-pick-with-weight) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
