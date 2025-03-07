@@ -281,6 +281,7 @@ Collection of LeetCode questions
 | [0684-redundant-connection](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
+| [0945-snakes-and-ladders](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions
 | [0921-spiral-matrix-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
+| [0945-snakes-and-ladders](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1031-add-to-array-form-of-integer) |
@@ -754,6 +756,7 @@ Collection of LeetCode questions
 | [0079-word-search](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0079-word-search) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
+| [0945-snakes-and-ladders](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
