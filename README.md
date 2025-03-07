@@ -376,6 +376,7 @@ Collection of LeetCode questions
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0377-combination-sum-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0399-evaluate-division) |
@@ -740,6 +741,7 @@ Collection of LeetCode questions
 | ------- |
 | [0045-jump-game-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0621-task-scheduler) |
