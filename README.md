@@ -347,6 +347,7 @@ Collection of LeetCode questions
 | [0045-jump-game-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0056-merge-intervals) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions
 | [0001-two-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0146-lru-cache) |
@@ -484,6 +486,7 @@ Collection of LeetCode questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0079-word-search) |
@@ -529,6 +532,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
