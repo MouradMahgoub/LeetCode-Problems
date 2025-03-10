@@ -414,6 +414,7 @@ Collection of LeetCode questions
 | [1435-xor-queries-of-a-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -544,6 +545,7 @@ Collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3483-alternating-groups-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -734,6 +736,7 @@ Collection of LeetCode questions
 | [1170-shortest-common-supersequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
