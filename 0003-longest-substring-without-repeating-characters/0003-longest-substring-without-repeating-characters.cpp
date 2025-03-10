@@ -1,7 +1,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        set<int> exist;
+        unordered_set<int> exist;
         int ans=0;
         for(int r=0, l=0; r<s.size(); r++){
             while(exist.count(s[r])){
