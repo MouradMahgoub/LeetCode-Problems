@@ -434,6 +434,7 @@ Collection of LeetCode questions
 | [2155-find-missing-observations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2402-maximum-xor-after-operations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2402-maximum-xor-after-operations) |
 | [2411-spiral-matrix-iv](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
@@ -746,6 +747,7 @@ Collection of LeetCode questions
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2262-solving-questions-with-brainpower](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Counting
 |  |
