@@ -486,6 +486,7 @@ Collection of LeetCode questions
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2161-stock-price-fluctuation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2413-smallest-number-in-infinite-set](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -699,6 +700,7 @@ Collection of LeetCode questions
 | [0937-online-stock-span](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2161-stock-price-fluctuation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
+| [2413-smallest-number-in-infinite-set](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Stack
 |  |
@@ -879,6 +881,7 @@ Collection of LeetCode questions
 | [1325-path-with-maximum-probability](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
 | [2161-stock-price-fluctuation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
+| [2413-smallest-number-in-infinite-set](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2803-modify-graph-edge-weights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
@@ -1014,6 +1017,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
+| [2413-smallest-number-in-infinite-set](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 ## Merge Sort
 |  |
