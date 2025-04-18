@@ -1055,6 +1055,7 @@ Collection of LeetCode questions
 | [1278-product-price-at-a-given-date](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1317-monthly-transactions-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1338-queries-quality-and-percentage) |
 | [1480-movie-rating](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1480-movie-rating) |
 | [1942-primary-department-for-each-employee](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1942-primary-department-for-each-employee) |
