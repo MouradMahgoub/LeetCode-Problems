@@ -1051,6 +1051,7 @@ Collection of LeetCode questions
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0585-investments-in-2016) |
 | [0626-exchange-seats](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0626-exchange-seats) |
+| [1135-customers-who-bought-all-products](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1135-customers-who-bought-all-products) |
 | [1278-product-price-at-a-given-date](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1317-monthly-transactions-i) |
