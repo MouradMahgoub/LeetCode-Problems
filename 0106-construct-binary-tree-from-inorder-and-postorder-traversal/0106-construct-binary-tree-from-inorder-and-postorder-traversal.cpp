@@ -12,7 +12,6 @@
 class Solution {
 public:
     TreeNode* foo(int si, int ei, int sp, int ep, vector<int>& inorder, vector<int>& postorder){
-        if(si == ei) return new TreeNode(inorder[si]);
         if(si > ei) return NULL;
         TreeNode* root = new TreeNode(postorder[ep]);
         int leftSize = 0;
