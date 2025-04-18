@@ -348,6 +348,7 @@ Collection of LeetCode questions
 | [0045-jump-game-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0054-spiral-matrix) |
@@ -645,6 +646,7 @@ Collection of LeetCode questions
 | ------- |
 | [0002-add-two-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
@@ -780,6 +782,7 @@ Collection of LeetCode questions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
