@@ -237,6 +237,7 @@ Collection of LeetCode questions
 | [0098-validate-binary-search-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -593,6 +594,7 @@ Collection of LeetCode questions
 | [0071-simplify-path](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -846,6 +848,7 @@ Collection of LeetCode questions
 | [0100-same-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -900,6 +903,7 @@ Collection of LeetCode questions
 | [0100-same-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -978,6 +982,7 @@ Collection of LeetCode questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0146-lru-cache) |
