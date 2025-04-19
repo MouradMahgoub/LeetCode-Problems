@@ -11,20 +11,30 @@
  */
 class Solution {
 public:
-    TreeNode* foo (TreeNode* root) {
-        if(!root) return NULL;
-        if(!root->left && !root->right) return root;
-        TreeNode* leftEnd = foo(root->left);
-        TreeNode* rightEnd = foo(root->right);
-        if(leftEnd) {
-            leftEnd->right = root->right;
-            root->right = root->left;
-            root->left = NULL;
-        }
-        return rightEnd ? rightEnd : leftEnd;
-    }
-
     void flatten(TreeNode* root) {
-        foo(root);
+        TreeNode* curr = root;
+        while(curr){
+            if(curr->left){
+                TreeNode* leftEnd = curr->left;
+                while(leftEnd->right) leftEnd = leftEnd->right;
+                leftEnd->right = curr->right;
+                curr->right = curr->left;
+                curr->left = NULL;
+            }
+            curr = curr->right;
+        }
     }
 };
+
+    // TreeNode* foo (TreeNode* root) {
+    //     if(!root) return NULL;
+    //     if(!root->left && !root->right) return root;
+    //     TreeNode* leftEnd = foo(root->left);
+    //     TreeNode* rightEnd = foo(root->right);
+    //     if(leftEnd) {
+    //         leftEnd->right = root->right;
+    //         root->right = root->left;
+    //         root->left = NULL;
+    //     }
+    //     return rightEnd ? rightEnd : leftEnd;
+    // }
