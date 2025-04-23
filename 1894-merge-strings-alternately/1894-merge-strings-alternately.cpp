@@ -4,15 +4,14 @@ public:
         int n = w1.size(), m = w2.size();
         int i = 0, j = 0, index = 0;
         string ans(n+m, ' ');
-        while(i < n && j < m){
-            if(index&1){
-                ans[index++] = w2[j++];
-            }else{
+        while(i < n || j < m){
+            if(i < n){
                 ans[index++] = w1[i++];
             }
+            if(j < m){
+                ans[index++] = w2[j++];
+            }
         }
-        while(i < n) ans[index++] = w1[i++];
-        while(j < m) ans[index++] = w2[j++];
         return ans;
     }
 };
