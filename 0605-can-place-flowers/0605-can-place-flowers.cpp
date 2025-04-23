@@ -10,6 +10,7 @@ public:
                 prev1 = 1;
                 curr = 0;
             }
+            if(ans >= n) return true;
         }
         ans += (curr-prev1+1)/2;
         cout << ans ;
