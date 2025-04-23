@@ -539,6 +539,7 @@ Collection of LeetCode questions
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -623,6 +624,7 @@ Collection of LeetCode questions
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0941-sort-array-by-parity](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1894-merge-strings-alternately](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
