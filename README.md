@@ -451,6 +451,7 @@ Collection of LeetCode questions
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2915-count-of-interesting-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -495,6 +496,7 @@ Collection of LeetCode questions
 | [2434-design-a-number-container-system](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2915-count-of-interesting-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -983,6 +985,7 @@ Collection of LeetCode questions
 | [1477-product-of-the-last-k-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2915-count-of-interesting-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 ## Linked List
 |  |
 | ------- |
