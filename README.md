@@ -377,6 +377,7 @@ Collection of LeetCode questions
 | [0216-combination-sum-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0322-coin-change) |
@@ -625,6 +626,7 @@ Collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
