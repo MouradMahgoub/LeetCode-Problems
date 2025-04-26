@@ -356,6 +356,7 @@ Collection of LeetCode questions
 | [0056-merge-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0079-word-search) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0139-word-break) |
@@ -799,6 +801,7 @@ Collection of LeetCode questions
 | [0048-rotate-image](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0079-word-search) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
