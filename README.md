@@ -315,6 +315,7 @@ Collection of LeetCode questions
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2803-modify-graph-edge-weights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -462,6 +463,7 @@ Collection of LeetCode questions
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -824,6 +826,7 @@ Collection of LeetCode questions
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Recursion
 |  |
 | ------- |
@@ -914,6 +917,7 @@ Collection of LeetCode questions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2803-modify-graph-edge-weights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -982,6 +986,7 @@ Collection of LeetCode questions
 | [0399-evaluate-division](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Game Theory
 |  |
 | ------- |
