@@ -12,15 +12,6 @@ public:
             q1.push({i, 0});
             q2.push({i-1, m-1});
         }
-        // while(!q1.empty()){
-        //     auto [r, c] = q1.front(); q1.pop();
-        //     cout << r << " " << c << ",";
-        // }
-        // cout << "\n";
-        // while(!q2.empty()){
-        //     auto [r, c] = q2.front(); q2.pop();
-        //     cout << r << " " << c << ",";
-        // }
         bfs(heights, q1, visited1);
         bfs(heights, q2, visited2);
         vector<vector<int>> ans;
@@ -37,8 +28,6 @@ public:
             int s = q.size();
             while(s--){
                 auto [r, c] = q.front(); q.pop();
-                // if(r < 0 || r > n-1 || c < 0 || c > m-1 || visited[r][c]) continue;
-                // if(visited[r][c]) 
                 visited[r][c] = true;
                 for(int i=0; i<4; i++){
                     int newR = r + x[i], newC = c + y[i];
