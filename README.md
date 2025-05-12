@@ -401,6 +401,7 @@ Collection of LeetCode questions
 | [0605-can-place-flowers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0658-find-k-closest-elements](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -582,6 +583,7 @@ Collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -600,6 +602,7 @@ Collection of LeetCode questions
 | [0435-non-overlapping-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0883-car-fleet](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
@@ -653,6 +656,7 @@ Collection of LeetCode questions
 | [0443-string-compression](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0941-sort-array-by-parity](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -673,6 +677,7 @@ Collection of LeetCode questions
 | [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0912-random-pick-with-weight](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0912-random-pick-with-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -929,6 +934,7 @@ Collection of LeetCode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0621-task-scheduler](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1304-longest-happy-string) |
