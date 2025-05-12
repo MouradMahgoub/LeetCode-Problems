@@ -441,6 +441,7 @@ Collection of LeetCode questions
 | [2132-convert-1d-array-into-2d-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -500,6 +501,7 @@ Collection of LeetCode questions
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2161-stock-price-fluctuation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
@@ -600,6 +602,7 @@ Collection of LeetCode questions
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2215-finding-3-digit-even-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -981,6 +984,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0204-count-primes) |
+| [2215-finding-3-digit-even-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
