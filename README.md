@@ -702,6 +702,7 @@ Collection of LeetCode questions
 | [0564-find-the-closest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0866-rectangle-overlap](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0866-rectangle-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0909-stone-game) |
@@ -822,6 +823,7 @@ Collection of LeetCode questions
 | [0605-can-place-flowers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1304-longest-happy-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
