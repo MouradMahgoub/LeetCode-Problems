@@ -10,21 +10,45 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
         ListNode* dummy = new ListNode();
-        ListNode* head = dummy;
-        while(list1 && list2){
-            if(list1->val <= list2->val){
-                dummy->next = list1;
-                list1 = list1->next;
+        ListNode* temp = dummy;
+        while(l1 && l2){
+            if(l1->val <= l2->val){
+                temp->next = l1;
+                l1 = l1->next;
             }else{
-                dummy->next = list2;
-                list2 = list2->next;
+                temp->next = l2;
+                l2 = l2->next;
             }
-            dummy = dummy->next;
+            temp = temp->next;
         }
-        dummy->next = list1 ? list1 : list2;
-        return head->next;
+        while(l1){
+            temp->next = l1;
+            l1 = l1->next;
+            temp = temp->next;
+        }
+        while(l2){
+            temp->next = l2;
+            l2 = l2->next;
+            temp = temp->next;
+        }
+        return dummy->next;
     }
 };
+
+        // ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+        // ListNode* dummy = new ListNode();
+        // ListNode* head = dummy;
+        // while(list1 && list2){
+        //     if(list1->val <= list2->val){
+        //         dummy->next = list1;
+        //         list1 = list1->next;
+        //     }else{
+        //         dummy->next = list2;
+        //         list2 = list2->next;
+        //     }
+        //     dummy = dummy->next;
+        // }
+        // dummy->next = list1 ? list1 : list2;
+        // return head->next;
