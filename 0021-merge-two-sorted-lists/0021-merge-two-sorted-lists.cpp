@@ -23,16 +23,7 @@ public:
             }
             temp = temp->next;
         }
-        while(l1){
-            temp->next = l1;
-            l1 = l1->next;
-            temp = temp->next;
-        }
-        while(l2){
-            temp->next = l2;
-            l2 = l2->next;
-            temp = temp->next;
-        }
+        temp->next = l1 ? l1 : l2;
         return dummy->next;
     }
 };
