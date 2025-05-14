@@ -12,17 +12,13 @@
 class Solution {
 public:
     int ans = 0;
-    void foo(TreeNode* root, string curr){
+    int foo(TreeNode* root, string curr){
+        if(!root) return 0;
         curr += to_string(root->val);
-        if(!root->left && !root->right){
-            ans += stoi(curr);
-            return;
-        }
-        if(root->left) foo(root->left, curr);
-        if(root->right) foo(root->right, curr);
+        if(!root->left && !root->right) return stoi(curr);
+        return foo(root->left, curr) + foo(root->right, curr);
     }
     int sumNumbers(TreeNode* root) {
-        foo(root, "");
-        return ans;
+        return foo(root, "");
     }
 };
