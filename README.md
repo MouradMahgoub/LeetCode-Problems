@@ -471,6 +471,7 @@ Collection of LeetCode questions
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -524,6 +525,7 @@ Collection of LeetCode questions
 | [2434-design-a-number-container-system](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2755-extra-characters-in-a-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2915-count-of-interesting-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -584,6 +586,7 @@ Collection of LeetCode questions
 | [2470-removing-stars-from-a-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2727-number-of-senior-citizens](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3447-clear-digits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -816,6 +819,7 @@ Collection of LeetCode questions
 | [2067-maximum-number-of-points-with-cost](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2755-extra-characters-in-a-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -1163,6 +1167,7 @@ Collection of LeetCode questions
 | [0208-implement-trie-prefix-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1397-search-suggestions-system](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
+| [2755-extra-characters-in-a-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
