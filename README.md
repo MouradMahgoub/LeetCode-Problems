@@ -1160,6 +1160,7 @@ Collection of LeetCode questions
 | [1338-queries-quality-and-percentage](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1338-queries-quality-and-percentage) |
 | [1480-movie-rating](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2057-count-salary-categories) |
