@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-select st.student_id, st.student_name, sub.subject_name, sum(ex.student_id is not null) attended_exams
+select st.student_id, st.student_name, sub.subject_name, sum(if(ex.student_id is null, 0, 1)) attended_exams
 from Students st
 join Subjects sub
 left join Examinations ex 
