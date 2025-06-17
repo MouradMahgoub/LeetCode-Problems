@@ -609,6 +609,7 @@ Collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0274-h-index) |
@@ -668,6 +669,7 @@ Collection of LeetCode questions
 | [0088-merge-sorted-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1079,6 +1081,7 @@ Collection of LeetCode questions
 | [0141-linked-list-cycle](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0725-split-linked-list-in-parts) |
@@ -1106,6 +1109,7 @@ Collection of LeetCode questions
 | [0023-merge-k-sorted-lists](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1129,6 +1133,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0148-sort-list) |
 ## Geometry
 |  |
 | ------- |
