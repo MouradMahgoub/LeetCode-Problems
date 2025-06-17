@@ -388,6 +388,7 @@ Collection of LeetCode questions
 | [0213-house-robber-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -800,6 +801,7 @@ Collection of LeetCode questions
 | [0152-maximum-product-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0322-coin-change) |
@@ -864,6 +866,7 @@ Collection of LeetCode questions
 | [0073-set-matrix-zeroes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
