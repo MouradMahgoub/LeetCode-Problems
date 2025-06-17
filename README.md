@@ -286,6 +286,7 @@ Collection of LeetCode questions
 | [0322-coin-change](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0684-redundant-connection) |
@@ -501,6 +502,7 @@ Collection of LeetCode questions
 | [0264-ugly-number-ii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0433-minimum-genetic-mutation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
@@ -558,6 +560,7 @@ Collection of LeetCode questions
 | [0394-decode-string](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0399-evaluate-division) |
 | [0415-add-strings](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0415-add-strings) |
+| [0433-minimum-genetic-mutation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0564-find-the-closest-palindrome](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
