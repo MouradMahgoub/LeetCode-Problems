@@ -256,6 +256,7 @@ Collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions
 | [0449-serialize-and-deserialize-bst](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0945-snakes-and-ladders) |
@@ -340,6 +342,7 @@ Collection of LeetCode questions
 | [0399-evaluate-division](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -410,6 +413,7 @@ Collection of LeetCode questions
 | [0624-maximum-distance-in-arrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0739-daily-temperatures) |
@@ -872,6 +876,7 @@ Collection of LeetCode questions
 | [0079-word-search](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0945-snakes-and-ladders) |
