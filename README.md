@@ -1186,6 +1186,7 @@ Collection of LeetCode questions
 | [1480-movie-rating](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1942-primary-department-for-each-employee) |
