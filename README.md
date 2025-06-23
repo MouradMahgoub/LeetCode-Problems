@@ -1185,6 +1185,7 @@ Collection of LeetCode questions
 | [1338-queries-quality-and-percentage](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1415-students-and-examinations) |
+| [1452-restaurant-growth](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
