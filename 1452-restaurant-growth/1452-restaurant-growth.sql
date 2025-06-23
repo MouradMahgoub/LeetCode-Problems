@@ -1,8 +1,6 @@
-SELECT a.visited_on AS visited_on, SUM(b.day_sum) AS amount,
-       ROUND(AVG(b.day_sum), 2) AS average_amount
-FROM
-  (SELECT visited_on, SUM(amount) AS day_sum FROM Customer GROUP BY visited_on ) a,
-  (SELECT visited_on, SUM(amount) AS day_sum FROM Customer GROUP BY visited_on ) b
-WHERE DATEDIFF(a.visited_on, b.visited_on) BETWEEN 0 AND 6
-GROUP BY a.visited_on
-HAVING COUNT(b.visited_on) = 7
+select a.visited_on, sum(b.amount) amount, round(sum(b.amount)/7, 2) average_amount 
+from (select visited_on, sum(amount) amount from Customer group by visited_on) a
+join (select visited_on, sum(amount) amount from Customer group by visited_on) b
+on datediff(a.visited_on, b.visited_on) between 0 and 6
+group by a.visited_on
+having count(b.visited_on) = 7
