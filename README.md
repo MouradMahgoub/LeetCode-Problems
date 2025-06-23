@@ -1172,6 +1172,7 @@ Collection of LeetCode questions
 | [0584-find-customer-referee](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0626-exchange-seats](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1153-product-sales-analysis-i) |
