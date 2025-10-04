@@ -441,6 +441,7 @@ Collection of LeetCode questions
 | [1364-tuple-with-same-product](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1435-xor-queries-of-a-subarray](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -520,6 +521,7 @@ Collection of LeetCode questions
 | [1160-letter-tile-possibilities](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
@@ -886,6 +888,7 @@ Collection of LeetCode questions
 | [0999-regions-cut-by-slashes](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1876-map-of-highest-peak](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2035-count-sub-islands) |
@@ -918,6 +921,7 @@ Collection of LeetCode questions
 | [0735-asteroid-collision](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/MouradMahgoub/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
